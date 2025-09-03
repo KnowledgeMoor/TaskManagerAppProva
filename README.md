@@ -14,8 +14,8 @@ Um aplicativo simples e intuitivo para gerenciamento de tarefas criado com React
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/gerenciador-de-tarefas.git
-cd gerenciador-de-tarefas
+git clone https://github.com/KnowledgeMoor/TaskManagerAppProva.git
+cd KnowledgeMoor/TaskManagerAppProva
 ```
 
 2. Instale as dependências:
